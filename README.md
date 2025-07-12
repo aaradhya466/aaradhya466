@@ -1,4 +1,21 @@
-## Hi there 👋
+### 👋 Hi there! I'm Aaradhya
+
+- 🎓 BCA Student | AI & Data Science
+- 💻 Web Developer | React & Vite
+- 🔭 Currently working at BEF
+- 🌱 Learning Full-Stack Development
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+### 🛠️ Tech Stack:
+React | Vite | HTML | CSS | JavaScript | PHP | SQL | Python
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 <!--
 **aaradhya466/aaradhya466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
