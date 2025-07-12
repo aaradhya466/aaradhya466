@@ -12,26 +12,9 @@
 
 🎓 Final-year BCA Student (AI & Data Science) at K.R. Mangalam University  
 💼 Web Developer at **Bharat Economic Forum**  
-💡 Building full-stack projects that solve real-world problems  
+💡 Building full-stack platforms that solve real-world problems  
 📊 Certified in Google Data Analytics, Power BI, IBM Python Analysis  
-🛠️ Experienced with PHP, SQL, React, Power BI, Python ML  
-
----
-
-## 🔧 My Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+🛠️ Experienced in React, Vite, SQL, ML, Data Visualization & Full-Stack Web Dev  
 
 ---
 
@@ -44,6 +27,44 @@
 | 📊 [**Power BI Dashboards**](https://github.com/aaradhya466/PowerBI-Projects) | Power BI | Insightful dashboards for sales, finance, etc. |
 | 📝 [**Resume Builder**](https://github.com/aaradhya466/Resume-Builder) | PHP, Bootstrap | Dynamic resume generation tool |
 | 🔍 [View All Projects ➜](https://github.com/aaradhya466?tab=repositories) |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center" style="margin-bottom: 20px;">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <!-- Web Dev -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+  <!-- Data & ML -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regex-E10098?style=for-the-badge&logo=regex&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
@@ -83,12 +104,9 @@
 
 ---
 
-## 🧠 Inspiration
+## ✨ Quote I Live By
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Donald_Knuth_%28cropped%29.jpg/440px-Donald_Knuth_%28cropped%29.jpg" width="120px" alt="Donald Knuth" style="border-radius: 50%;"/>
+<p align="center" style="font-size: 18px;">
+  <em>“The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times. <br>Premature optimization is the root of all evil.”</em>  
+  <br><strong>— Donald Knuth</strong>
 </p>
-
-<p align="center"><em>“The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil.”</em></p>
-
-<p align="center">— <strong>Donald Knuth</strong></p>
