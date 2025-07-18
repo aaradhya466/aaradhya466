@@ -83,12 +83,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaradhya466&theme=tokyonight" height="200"/>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaradhya466&theme=dracula&row=1&margin-w=10&no-frame=true"/>
 </p>
 
