@@ -22,10 +22,11 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🔄 [**FoodBridge**](https://github.com/aaradhya466/FoodBridge) | PHP, JS, SQL, HTML/CSS | Connects food donors to NGOs with live tracking, dashboards & admin panel |
-| 🧠 [**Fake News Detection**](https://github.com/aaradhya466/Fake-News-Detection) | Python, Sklearn, TF-IDF | AI model using 5 ML algorithms to detect fake news |
-| 📊 [**Power BI Dashboards**](https://github.com/aaradhya466/PowerBI-Projects) | Power BI | Insightful dashboards for sales, finance, etc. |
-| 📝 [**Resume Builder**](https://github.com/aaradhya466/Resume-Builder) | PHP, Bootstrap | Dynamic resume generation tool |
+| 🔄 [**FoodBridge**](https://github.com/aaradhya466/Food-Redistribution-Web-Platform) | PHP, JS, SQL, HTML/CSS | Connects food donors to NGOs with live tracking, dashboards & admin panel |
+| 🧠 [**Fake News Detection**](https://github.com/aaradhya466/AI_Driven_Fake_News_Detection) | Python, Sklearn, TF-IDF | AI model using 5 ML algorithms to detect fake news |
+| 📊 [**SQL Query Generator**](https://github.com/aaradhya466/SQL-using-Natural-Language-Query-NLQ-with-AI) | IBM Watsonx.ai Granite-3-2-8B Instruct, MySQL with Chinook Sample Database, Python ,LangChain | Enables natural language queries on a MySQL database using IBM Watsonx and LangChain to auto-generate and execute SQL|
+| 📝 [**Bharat Economic Forum Official Website**]| MERN stack | Collaborative project – live link to be shared post-deployment ; In-progress, private repository |
+| 🏥 [**Hospital Management System**]| Java, JSP, Servlets, Apache Tomcat, SQL | Academic project for managing patient records, appointments, and billing; code unavailable due to data loss |  
 | 🔍 [View All Projects ➜](https://github.com/aaradhya466?tab=repositories) |
 
 ---
