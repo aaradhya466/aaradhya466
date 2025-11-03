@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hey there! 👋 I'm Aaradhya</h1>
-<h3 align="center">🚀 BCA (AI & Data Science) | Web Developer | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">🚀 BCA (AI & Data Science) | Data Science | ML Enthusiast | Data Analyst </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Web+Solutions+%F0%9F%9A%80;Building+Smart+Data+Tools+%F0%9F%93%88;Exploring+AI+and+ML+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -11,8 +11,6 @@
 ## 🚀 About Me
 
 🎓 Final-year BCA Student (AI & Data Science) at K.R. Mangalam University  
-💼 Web Developer at **Bharat Economic Forum**  
-💡 Building full-stack platforms that solve real-world problems  
 📊 Certified in Google Data Analytics, Power BI, IBM Python Analysis  
 🛠️ Experienced in React, Vite, SQL, ML, Data Visualization & Full-Stack Web Dev  
 
